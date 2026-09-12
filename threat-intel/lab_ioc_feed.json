@@ -1,0 +1,20 @@
+{
+  "203.0.113.50": {
+    "reputation": "malicious",
+    "threat_score": 90,
+    "category": "brute_force_source",
+    "confidence": 90
+  },
+  "203.0.113.51": {
+    "reputation": "suspicious",
+    "threat_score": 75,
+    "category": "unusual_admin_activity",
+    "confidence": 80
+  },
+  "203.0.113.52": {
+    "reputation": "suspicious",
+    "threat_score": 70,
+    "category": "high_volume_activity",
+    "confidence": 75
+  }
+}
